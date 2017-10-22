@@ -1,3 +1,4 @@
 print ("Hello world")
 print ("Don"t use")
 print ("А может и юз")
+print ("Hello else")
